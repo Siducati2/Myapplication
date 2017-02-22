@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replac   e with your own a      ction", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Replac   e with your fgddgfgfdown a      ction", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
